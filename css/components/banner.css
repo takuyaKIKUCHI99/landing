@@ -1,0 +1,11 @@
+.banner {
+  height: 500px;
+  display: flex;
+  align-items: center;
+}
+.banner h1 {
+  color: white;
+}
+.banner p {
+  color: grey;
+}
